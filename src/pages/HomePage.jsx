@@ -3,8 +3,9 @@ import Historia from "../components/Carrusel/Historia";
 <Carrusel/>
 const HomePage =() => {
     return<> 
+        <Historia/>
     <Carrusel/>
-    <Historia/>
+    
 </>
 };
 
